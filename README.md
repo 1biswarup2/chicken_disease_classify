@@ -12,11 +12,3 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
-
-## Run from terminal:
-
-docker build -t chickenapp01.azurecr.io/chicken:latest .
-
-docker login chickenapp01.azurecr.io
-
-docker push chickenapp01.azurecr.io/chicken:latest
