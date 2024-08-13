@@ -4,6 +4,8 @@ This project aims to classify diseases in chickens using a deep learning model. 
 
 ## Interface
 
+1. ![interface](chickenapp1.png)
+3. ![prediction](chickenapp2.png)
 
 
 
